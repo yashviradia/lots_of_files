@@ -1,0 +1,3 @@
+/Users/yashviradia/CLionProjects/lots_of_files/cmake-build-debug/CMakeFiles/lots_of_files.dir
+/Users/yashviradia/CLionProjects/lots_of_files/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yashviradia/CLionProjects/lots_of_files/cmake-build-debug/CMakeFiles/rebuild_cache.dir

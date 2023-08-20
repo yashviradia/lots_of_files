@@ -1,0 +1,9 @@
+# ninja log v5
+2	148	1692530962249273391	CMakeFiles/lots_of_files.dir/functions.cpp.o	c532fe148188143f
+0	1176	1692530963280650476	CMakeFiles/lots_of_files.dir/main.cpp.o	a08d5a5a584d2a2d
+1177	1303	1692530963413354043	lots_of_files	6d75896c3acc6de2
+1	906	1692531293049790147	CMakeFiles/lots_of_files.dir/main.cpp.o	a08d5a5a584d2a2d
+3	1061	1692531293210073008	CMakeFiles/lots_of_files.dir/functions.cpp.o	c532fe148188143f
+1062	1190	1692531293343843487	lots_of_files	6d75896c3acc6de2
+1	893	1692531319839871717	CMakeFiles/lots_of_files.dir/main.cpp.o	a08d5a5a584d2a2d
+893	958	1692531319910521178	lots_of_files	6d75896c3acc6de2
